@@ -4,7 +4,11 @@ This is the **Capstone Project 2** I did from March 2021 to May 2021 at my unive
 
 The EfficientNetB0 is the work of Maksym Shkliarevskyi, https://www.kaggle.com/maksymshkliarevskyi
 
-### References:
+*Dataset A*: This dataset consists of 39 classes of plant leaves and background without leaves.[1]
+
+*Dataset B*: The second dataset was crawled down from a Kaggle competition (Cassava Leaf Disease Classification) [3]. I accepted the rules of Kaggle competition to use this dataset for education purpose.
+
+### References in this project report:
 [1]: J, ARUN PANDIAN; GOPAL, GEETHARAMANI (2019), “Data for: Identification of Plant Leaf Diseases Using a 9-layer Deep Convolutional Neural Network”, Mendeley Data, V1, doi: 10.17632/tywbtsjrjv.1
 
 [2]: David. P. Hughes, Marcel Salathe. An open access repository of images on plant health to enable the development of mobile disease diagnostics. arXiv:1511.08060
