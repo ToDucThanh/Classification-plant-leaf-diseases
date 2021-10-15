@@ -33,3 +33,5 @@ The EfficientNetB0 is the work of Maksym Shkliarevskyi, https://www.kaggle.com/m
 
 [12]: CloudxLab. 2021. Understanding the Directory Structure. [online] Available at: <https://cloudxlab.com/assessment/displayslide/5853/understanding-the-directory-structure?playlist_id=582> 
 
+![Github logo](https://github.com/ToDucThanh/Classification-plant-leaf-diseases/blob/master/Image-Classification-App/img1.png)
+![Github logo](https://github.com/ToDucThanh/Classification-plant-leaf-diseases/blob/master/Image-Classification-App/img2.png)
