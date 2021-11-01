@@ -1,5 +1,5 @@
 # Classification-plant-leaf-diseases
-## Deploy a plant leaf diseases classification model using Flask.
+## Build several architectures, tune hyperparameters and deploy a model using Flask.
 This is the **Capstone Project 2** I did from March 2021 to May 2021 at my university.
 
 The EfficientNetB0 is the work of Maksym Shkliarevskyi, https://www.kaggle.com/maksymshkliarevskyi
